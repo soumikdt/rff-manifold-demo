@@ -43,18 +43,4 @@ jupyter notebook RFF_map_demo.ipynb
 
 Run all cells in order. The notebook first generates `experiment_data/rff_quantiles_vs_t.xlsx` (the raw results table) and then reads it back to produce `experiment_data/rff_quantiles_vs_t.png`.
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@article{rff_manifold_2025,
-  title   = {Random Fourier Features on Manifolds: Uniform Kernel Distance Preservation
-             and Topological Guarantees},
-  author  = {},
-  year    = {2025},
-  note    = {Preprint}
-}
-```
-
-(Citation details will be updated on publication.)
